@@ -21,7 +21,7 @@ function ProductDetails() {
 
   return (
     <div className='product-details'>
-      <img src={productDetails.image} alt="image" className='image-gallery' />
+      <img src={productDetails.image} alt="" aria-hidden="true" className='image-gallery' />
       <div className='product-info'>
         <h2 className='product-title'>{productDetails.title}</h2>
 
