@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shop_ease/static/css/main.8d5cd121.css",
+    "main.js": "/shop_ease/static/js/main.0fa7e244.js",
+    "static/js/488.12241afa.chunk.js": "/shop_ease/static/js/488.12241afa.chunk.js",
+    "index.html": "/shop_ease/index.html",
+    "main.8d5cd121.css.map": "/shop_ease/static/css/main.8d5cd121.css.map",
+    "main.0fa7e244.js.map": "/shop_ease/static/js/main.0fa7e244.js.map",
+    "488.12241afa.chunk.js.map": "/shop_ease/static/js/488.12241afa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5cd121.css",
+    "static/js/main.0fa7e244.js"
+  ]
+}
